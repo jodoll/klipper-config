@@ -10,6 +10,7 @@ For information on how to configure Klipper check their official [documentation]
 |-----------|--------------------|
 | Printer   | Ender 3 Pro        |
 | Board     | SKR 1.4 Pro        |
+| Stepper   | TMC2208            |
 | Hotend    | Trianglelabs v6    |
 | Extruder  | Trianglelabs Titan |
 | Bed       | Kis3d Silicon Mat  |
