@@ -14,3 +14,5 @@ For information on how to configure Klipper check their official [documentation]
 | Hotend    | Trianglelabs v6    |
 | Extruder  | Trianglelabs Titan |
 | Bed       | Kis3d Silicon Mat  |
+| Z-Axis    | Belt Driven Mod    |
+
